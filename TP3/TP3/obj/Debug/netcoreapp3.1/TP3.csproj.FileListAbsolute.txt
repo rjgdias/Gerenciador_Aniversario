@@ -1,0 +1,14 @@
+D:\Aula_INFNET\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.exe
+D:\Aula_INFNET\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.deps.json
+D:\Aula_INFNET\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.runtimeconfig.json
+D:\Aula_INFNET\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.runtimeconfig.dev.json
+D:\Aula_INFNET\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.dll
+D:\Aula_INFNET\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.pdb
+D:\Aula_INFNET\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.csproj.AssemblyReference.cache
+D:\Aula_INFNET\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aula_INFNET\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.AssemblyInfoInputs.cache
+D:\Aula_INFNET\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.AssemblyInfo.cs
+D:\Aula_INFNET\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.csproj.CoreCompileInputs.cache
+D:\Aula_INFNET\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.dll
+D:\Aula_INFNET\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.pdb
+D:\Aula_INFNET\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.genruntimeconfig.cache
